@@ -26,7 +26,7 @@
     "webvr",
     "voice-command"
   ],
-  "author": "Leonardo Malave &lt;leo@malave.tech&gt;",
+  "author": "Leonardo Malave <leo@malave.tech>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/lmalave/aframe-speech-command-component/issues"
